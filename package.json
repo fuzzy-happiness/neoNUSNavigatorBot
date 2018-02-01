@@ -1,0 +1,21 @@
+{
+  "name": "neoNUSNavigatorBot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:fuzzy-happiness/neoNUSNavigatorBot.git",
+  "author": "Fuzzy Happiness",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "node-cache": "^4.1.1",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
